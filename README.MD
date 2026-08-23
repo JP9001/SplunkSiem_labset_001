@@ -1,9 +1,6 @@
 WATCH THIS VIDEO!!!!!!!!!!!!
 https://loom.com/share/d311c6252e3b4bb28cbda335993f1808
 
-
-<https://loom.com/share/d311c6252e3b4bb28cbda335993f1808>
-
 # Splunk SIEM Lab — Windows Security Monitoring on Azure
 
 ![Splunk](https://img.shields.io/badge/Splunk-Enterprise-000000?logo=splunk&logoColor=white)
